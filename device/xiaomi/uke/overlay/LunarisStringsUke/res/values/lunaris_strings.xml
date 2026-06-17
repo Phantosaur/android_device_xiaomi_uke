@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <!-- Maintainer name (отображается в About phone) -->
+    <string name="maintainer_name">Phantosaur</string>
+    
+    <!-- Build variant -->
+    <string name="lunaris_build_variant">Vanilla</string>
+    
+    <!-- Custom About phone sections -->
+    <string name="lunaris_version">3.11</string>
+    <string name="lunaris_platform">Android 16 (BP4A)</string>
+    <string name="lunaris_device">Xiaomi Pad 7</string>
+    <string name="lunaris_codename">uke</string>
+    
+    <!-- Optional: Custom footer or credits -->
+    <string name="lunaris_credits">Built with ❤️ by Phantosaur</string>
+    
+</resources>
